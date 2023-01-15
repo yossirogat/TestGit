@@ -2,9 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/ConsoleApp1/ConsoleApp1/obj/project.nuget.cache
-/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.assets.cache
-/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
-/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets
-/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props
 /ConsoleApp1/.vs/ConsoleApp1/v17/.suo
+/ConsoleApp1/ConsoleApp1/obj
+/ConsoleApp1/ConsoleApp1/bin
+/ConsoleApp1/.vs
+*.bak
